@@ -48,3 +48,6 @@ function Navbar() {
 }
 
 export default Navbar
+
+// minuto 24
+// https://youtu.be/I2UBjN5ER4s?t=1442
