@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import {Link} from 'react-router-dom';
 import { Button } from './Button';
+import './Navbar.css';
 
 
 function Navbar() {
@@ -60,7 +61,7 @@ function Navbar() {
     )
 }
 
-export default Navbar
+export default Navbar;
 
 // minuto 24
 // https://youtu.be/I2UBjN5ER4s?t=1442
